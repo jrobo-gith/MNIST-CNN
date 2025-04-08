@@ -1,6 +1,7 @@
 # MNIST-CNN
 Uses a convolutional neural network to predict numbers from MNIST dataset. This project makes use of a high level neural network package called Pytorch, making this project more of an investigation into the power of a CNN. Another project in my github called ___ involves building a neural network from scratch which dives deeper into the structure of a standard NN.<br><br>
-This is part of the PORTFOLIO project - A list of projects designed to showcase various skills I love to learn.
+This is part of the PORTFOLIO project - A list of projects designed to showcase various skills I love to learn. Other projects include:
+* [Implimentation of 'Attention is all you need']()
 
 ### Details
 This is a simple use case of a convolutional neural network, used to predict numbers from the MNIST dataset - a famous dataset used for training NNs such as these. The CNN was shown 60,000 training images of black backgrounds with white numbers of size 28x28. I managed to achieve a mean accuracy of 97.5% when testing the model on 10,000 images.
